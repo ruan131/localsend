@@ -142,3 +142,10 @@ appimage-builder --recipe AppImageBuilder.yml
 **Snap**
 
 Feel free to open a pull request. There is a  `snap` branch to play with.
+
+```shel2
+flutter pub run msix:create --store
+
+### Linux
+
+**Traditional**
